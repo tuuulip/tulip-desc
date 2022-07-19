@@ -50,3 +50,7 @@ HOST_IP=10.10.25.0
 ```
 docker-compose up -d
 ```
+
+## docker container infomations
+- [server container](https://hub.docker.com/r/tulipbc/server)
+- [client container](https://hub.docker.com/r/tulipbc/webapp)
