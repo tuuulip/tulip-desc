@@ -1,7 +1,7 @@
 ## Rabbit Nft Description
 ![demo](demo.gif)
 
-## Install
+## Installation
 1. create docker-compose.yaml file
 ```
 version: "3"
