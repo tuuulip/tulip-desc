@@ -1,4 +1,5 @@
-## Tulip blockchain as a service eescription
+## Tulip 
+Blockchain as a service base on Hyperledger Fabric
 ![demo](demo.gif)
 
 ## Installation
