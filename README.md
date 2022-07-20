@@ -1,4 +1,4 @@
-## Rabbit Nft Description
+## Tulip blockchain as a service eescription
 ![demo](demo.gif)
 
 ## Installation
